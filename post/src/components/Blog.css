@@ -1,0 +1,42 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.post__main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_left {
+    margin-right: 10%;
+}
+
+.main_ryt {
+    margin-left: 10%;
+    background-color: brown;
+}
+
+.like__btn {
+    background-color: rgb(96, 96, 96)
+}
+
+.disLike__btn {
+    background-color: rgb(96, 96, 96);
+}
+
+
+
+
+
+.bt {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.switch {
+    border-radius: 10%;
+}

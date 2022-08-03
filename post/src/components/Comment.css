@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    margin-bottom: 20px;
+
+}
+
+.__edit {
+    display: flex;
+    width: 100%;
+}
+
+.text {
+    color: yellow;
+}
